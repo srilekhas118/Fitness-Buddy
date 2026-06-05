@@ -17,7 +17,7 @@ The application uses a **Router Agentic AI Design Pattern**. When a user types a
 - `app.json`: Official cloud deployment manifest file [📡].
 - `problemstatement.pdf`: Evaluator project guidelines.
 - `projectpresentation.pptx`: Presentation slide deck containing system architectures and working screenshots.
-- `fitnessbuddy.txt`: Raw dataset containing the referenced text instructions.
+- `fitness_manual.txt`: Raw dataset containing the referenced text instructions.
 
 ---
 *Built for the IBM SkillsBuild Advanced AI Capstone Certification Evaluation.*
