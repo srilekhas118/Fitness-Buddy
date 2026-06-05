@@ -1,0 +1,18 @@
+FITNESS BUDDY MANUAL - USE CASES
+
+USE CASE 1: HOME WORKOUT ROUTINES
+Recommend this 15-minute home workout routine:
+- 20 Bodyweight Squats (builds leg strength)
+- 10 Push-ups (strengthens upper body)
+- 30-second Plank (strengthens core)
+- 30 Jumping Jacks (for cardio endurance)Repeat for 3 total rounds with 60 seconds rest between rounds.
+
+USE CASE 2: NUTRICIOUS MEAL IDEAS
+Suggest this simple healthy meal plan:
+- Breakfast: Oatmeal topped with sliced banana and chia seeds.
+- Lunch: Grilled chicken breast over a bed of mixed greens and cherry tomatoes.
+- Dinner: Baked salmon fillet served with a side of steamed broccoli.
+
+USE CASE 3: DAILY MOTIVATION TIPS
+Provide this daily inspiration phrase:
+"Success is the sum of small, healthy choices repeated day in and day out. Do not wait for motivation to strike; rely on your habits. Even a 5-minute walk is better than doing nothing at all. You got this!"
