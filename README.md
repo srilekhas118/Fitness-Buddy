@@ -1,4 +1,4 @@
-# Problem Statement 13: Fitness Buddy — Agentic AI Health Coach
+🤸‍♀️Fitness Buddy — Agentic AI Health Coach
 
 ## 💻 Project Overview
 This repository contains the official main project submission for the **IBM SkillsBuild Advanced AI Program**. "Fitness Buddy" is a conversational, autonomous Agentic AI application built using **IBM Cloud Lite services** and **watsonx Orchestrate** [📡]. It guides users toward healthier lifestyles by automating multi-step workflows.
