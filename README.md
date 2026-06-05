@@ -20,4 +20,3 @@ The application uses a **Router Agentic AI Design Pattern**. When a user types a
 - `fitness_manual.txt`: Raw dataset containing the referenced text instructions.
 
 ---
-*Built for the IBM SkillsBuild Advanced AI Capstone Certification Evaluation.*
