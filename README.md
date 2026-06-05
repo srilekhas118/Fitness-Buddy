@@ -14,9 +14,9 @@ The application uses a **Router Agentic AI Design Pattern**. When a user types a
 - **Daily Motivation Node**: Provides encouraging, habit-building psychological cues to reinforce consistency.
 
 ## 📦 Repository Structure
-- `app.json`: Official cloud deployment manifest file [📡].
-- `problemstatement.pdf`: Evaluator project guidelines.
-- `projectpresentation.pptx`: Presentation slide deck containing system architectures and working screenshots.
+- `app.json`: Official cloud deployment manifest file.
+- `Problem_Statement.pdf`: Evaluator project guidelines.
+- `Fitness_Buddy.pptx`: Presentation slide deck containing system architectures and working screenshots.
 - `fitness_manual.txt`: Raw dataset containing the referenced text instructions.
 
 ---
