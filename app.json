@@ -1,0 +1,18 @@
+{
+  "name": "fitness-buddy",
+  "description": "Problem Statement 13: An autonomous Agentic AI health coach built on IBM Cloud using watsonx Orchestrate structural pipelines to recommend home workouts, provide motivational tips, and suggest healthy meal options.",
+  "repository": "https://github.com",
+  "keywords": ["watsonx", "ibm-cloud", "agentic-ai", "fitness-buddy", "skillsbuild"],
+  "env": {
+    "IBM_CLOUD_API_KEY": {
+      "description": "The secret IAM API key to access your IBM Cloud instance resource pool.",
+      "required": true
+    },
+    "WATSONX_PROJECT_ID": {
+      "description": "The unique GUID project workspace identifier from your watsonx.ai dashboard.",
+      "required": true
+    }
+  },
+  "stack": "python-3",
+  "version": "1.0.0"
+}
